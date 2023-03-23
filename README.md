@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tervertatyough
-- 👀 I’m interested in 
+- 👀 I’m interested in Information Technology
 - 🌱 I’m currently building Web/Mobile Applications using flutter
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me email: tcubeterver@gmail.com Instagram: @tervertatyough
